@@ -65,3 +65,24 @@ li a {
 li a:hover {
   text-decoration: underline;
 }
+
+.login {
+	background-color: #e2e2e2;
+	border-radius: 25px;
+}
+
+main img{
+	display: block;
+	margin: 0 auto;
+	margin-top: 18%;
+}
+
+form input{
+	display: block;
+	margin: 5px auto;
+}
+
+form button{
+	display: inline-flex;
+	margin: auto;
+}
